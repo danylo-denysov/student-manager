@@ -1,0 +1,52 @@
+12312
+Danylo
+Denysov
+19
+Computer science
+3
+Math
+3, 4, 4.5, 5, 
+C++
+3, 3, 3, 4, 
+Python
+3, 4, 4.5, 5, 
+149090
+Pawid
+Duchala
+200
+Computer Science
+3
+Math
+3, 4, 4.5, 5, 4, 4.5, 
+C++
+2, 4, 3.5, 5, 
+Chuj
+3, 2, 5, 
+8787
+Gabriela
+Obrzud
+20
+Biology
+1
+Chemistry
+3, 2, 3, 4.5, 
+Organics
+5, 5, 5, 4.5, 
+233223
+Arkadiusz
+Knapik
+21
+League of Legends
+6
+Macro movement
+2, 2, 2, 
+Mechanics
+2, 2, 
+Fight tactics
+2, 3, 
+232
+sdfsd
+dfsfsdf
+34
+[p
+1
